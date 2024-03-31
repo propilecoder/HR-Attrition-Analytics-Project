@@ -53,4 +53,3 @@ Thank you for taking the time to review this project. For more details on my wor
 
 ---
 For any further details or inquiries, please feel free to open an issue or submit a pull request.
-*Completed as part of the MeriSkill Internship Program*
